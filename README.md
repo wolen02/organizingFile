@@ -1,3 +1,4 @@
 ## 친구를 위한 파일 자동분류 프로그램
 
-#### mac 환경에서 실행이 안됨. 추가적인 공부 필요
+
+#### organizingFiles/src/organizingFiles/OrganizingFiles.java: mac 환경에서 실행이 안됨. 추가적인 공부 필요
